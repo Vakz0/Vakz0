@@ -1,8 +1,8 @@
-## Hello 👋
+## About 👤
 
 I'm a student at [INSA Lyon](https://www.insa-lyon.fr/), passionate about computer science and data. I've been exploring these fields for several years, and I'm looking to specialize in data science.
 
-## Skills
+## Skills 🎯
 
 #### Languages
 
